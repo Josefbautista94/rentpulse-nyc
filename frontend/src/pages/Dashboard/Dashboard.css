@@ -1,0 +1,16 @@
+.dashboard-container {
+  background: #171717;
+  border: 1px solid #2c2c2c;
+  padding: 1rem;
+  border-radius: 12px;
+  color: #eaeaea;
+}
+
+.dashboard-title {
+  margin-bottom: 1rem;
+}
+
+.chart-wrapper {
+  width: 100%;
+  height: 320px;
+}
